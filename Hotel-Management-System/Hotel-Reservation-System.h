@@ -343,7 +343,7 @@ public:
                 insert();
                 break;
             case 2:
-                displayBST();
+              searchByID();
                 break;
             case 3:
                 update();
